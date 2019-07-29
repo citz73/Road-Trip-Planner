@@ -1,0 +1,6 @@
+Youngstown 0
+Yankton 1
+Yakima 2
+Worcester 3
+Wisconsin-Dells 4
+Winston-Salem 5

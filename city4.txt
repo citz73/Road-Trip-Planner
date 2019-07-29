@@ -1,0 +1,10 @@
+Boulder 0
+Denver 1
+Arapahoe 2
+FortCollins  3
+Sidney 4
+El-Paso 5
+Pueblo 6
+Delta 7
+ColoradoSprings 8
+Cheyenne 9
